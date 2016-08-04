@@ -28,6 +28,7 @@ ___
 - 1-2 Items (Höher springen, schneller laufen) 
 - 1-2 Gegner (Links-Rechts Bewegung, Bewegung zum Spieler)
 - später vielleicht ein funktionierender Multiplayer
+
 ___
 
 **Bisher ist nichts endgültig! Einige Features werden sicherlich verworfen und dafür andere hinzukommen.** 
